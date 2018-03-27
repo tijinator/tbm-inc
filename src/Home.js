@@ -4,7 +4,7 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <h2>THE ESSENTIALS FOR A <b>SUCCESSFUL BUSINESS</b></h2>
+        <h2>What we do: The Essentials for a Successful Business</h2>
 	<ul>
 	   	<li>Digital Transformation: A new way of looking at your Business</li>
 	   	<ul>

@@ -78,3 +78,27 @@ ul.header li a {
 .content li {
   margin-bottom: 10px;
 }
+
+.project-row{
+	padding: 20px;
+	width: 95%;
+	clear: both;
+	display: inline-block;
+	border-bottom: 1px solid #eee;
+}
+
+.project-row-image{
+	min-width: 200px;
+	width: 30%;
+	float: left;
+}
+
+.project-row-desc{
+	min-width: 400px;
+	width: 68%;
+	float: left;
+	padding: 0 0 0 2%;
+}
+.project-list{
+	list-style-type: none;
+}
