@@ -91,6 +91,13 @@ ul.header li a {
 	min-width: 200px;
 	width: 30%;
 	float: left;
+	padding-top: 20px;
+}
+
+.project-row-desc h3 a,
+.project-row-desc h3 a:visited{
+	text-decoration: none;
+	color: #222;
 }
 
 .project-row-desc{

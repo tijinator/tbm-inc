@@ -8,9 +8,25 @@ class Projects extends Component {
         <ul class="project-list">
           <li>
 		<div class="project-row">
-			<div class="project-row-image"><img src="/assets/lltv.jpg" width="95%"/></div>
+			<div class="project-row-image"><img src="/assets/fitfightme.jpg" width="95%"/></div>
 			<div class="project-row-desc">
-				<h3>LLTV - Learning Library TV</h3>
+				<h3><a href="http://www.fitfightme.com" target="_blank">FitFight</a></h3>
+				<p>
+					FitFight is a combat veteran owned and operated mobile platform that allows every user to engage in fitness competitions. We were founded on the principle that superior fitness can be achieved through constant competition.
+				</p>
+				<ul>
+					<li>Mobile App Platforms</li>
+					<li>Social / Fitness Competitions</li>
+					<li>Ecommerce / Payment Gateways</li>
+				</ul>
+			</div>
+		</div>
+	  </li>
+          <li>
+		<div class="project-row">
+			<div class="project-row-image"><img src="/assets/commcx.jpg" width="95%"/></div>
+			<div class="project-row-desc">
+				<h3><a href="https://commcx.com" target="_blank">Comm CX</a></h3>
 				<p>A Learning Management SaaS platform built around engineering content to enable users to learn from anywhere in the world on a intuitive and easy to use web platform.
 				</p>
 				<ul>
@@ -25,7 +41,7 @@ class Projects extends Component {
 		<div class="project-row">
 			<div class="project-row-image"><img src="/assets/fitmoo.jpg" width="95%"/></div>
 			<div class="project-row-desc">
-				<h3>Fitmoo - Now known as ActionHouse</h3>
+				<h3><a href="https://fitmoo.com" target="_blank">Fitmoo - Now known as ActionHouse</a></h3>
 				<p>
 				A social affiliate marketplace for everything fitness. The TBM lead the development of product and engineering and helped fitmoo develop a world class e-commerce production on top of a innovative social affiliate platform built from scratch.
 				</p>
@@ -39,9 +55,9 @@ class Projects extends Component {
 	  </li>
           <li>
 		<div class="project-row">
-			<div class="project-row-image"><img src="/assets/fitmoo.jpg" width="95%"/></div>
+			<div class="project-row-image"><img src="/assets/kraususa.jpg" width="95%"/></div>
 			<div class="project-row-desc">
-				<h3>Kraus USA</h3>
+				<h3><a href="https://kraususa.com" target="_blank">Kraus USA</a></h3>
 				<p>
 				Help Kraus USA to transition from simple excel driven environment to a robust and enterprise information architecture with implementation of a state of the art, ecommerce and web assets, EDI integration, CRM, ERP and Business Intelligence platforms and ReBrand themselves as an industry leader in the realm of fashion plumbing.
 				</p>
@@ -54,6 +70,9 @@ class Projects extends Component {
 		</div>
 	  </li>
         </ul>
+	<h3>
+		and many more...
+	</h3>
       </div>
     );
   }
