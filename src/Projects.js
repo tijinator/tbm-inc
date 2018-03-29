@@ -8,7 +8,11 @@ class Projects extends Component {
         <ul class="project-list">
           <li>
 		<div class="project-row">
-			<div class="project-row-image"><img src="/assets/fitfightme.jpg" width="95%"/></div>
+			<div class="project-row-image">
+				<a href="http://www.fitfightme.com" target="_blank">
+					<img src="/assets/fitfightme.jpg" width="95%"/>
+				</a>
+			</div>
 			<div class="project-row-desc">
 				<h3><a href="http://www.fitfightme.com" target="_blank">FitFight</a></h3>
 				<p>
@@ -24,7 +28,11 @@ class Projects extends Component {
 	  </li>
           <li>
 		<div class="project-row">
-			<div class="project-row-image"><img src="/assets/commcx.jpg" width="95%"/></div>
+			<div class="project-row-image">
+				<a href="https://commcx.com" target="_blank">
+					<img src="/assets/commcx.jpg" width="95%"/>
+				</a>
+			</div>
 			<div class="project-row-desc">
 				<h3><a href="https://commcx.com" target="_blank">Comm CX</a></h3>
 				<p>A Learning Management SaaS platform built around engineering content to enable users to learn from anywhere in the world on a intuitive and easy to use web platform.
@@ -39,7 +47,11 @@ class Projects extends Component {
 	  </li>
           <li>
 		<div class="project-row">
-			<div class="project-row-image"><img src="/assets/fitmoo.jpg" width="95%"/></div>
+			<div class="project-row-image">
+				<a href="https://fitmoo.com" target="_blank">
+					<img src="/assets/fitmoo.jpg" width="95%"/>
+				</a>
+			</div>
 			<div class="project-row-desc">
 				<h3><a href="https://fitmoo.com" target="_blank">Fitmoo - Now known as ActionHouse</a></h3>
 				<p>
@@ -55,7 +67,11 @@ class Projects extends Component {
 	  </li>
           <li>
 		<div class="project-row">
-			<div class="project-row-image"><img src="/assets/kraususa.jpg" width="95%"/></div>
+			<div class="project-row-image">
+				<a href="https://kraususa.com" target="_blank">
+					<img src="/assets/kraususa.jpg" width="95%"/>
+				</a>
+			</div>
 			<div class="project-row-desc">
 				<h3><a href="https://kraususa.com" target="_blank">Kraus USA</a></h3>
 				<p>
